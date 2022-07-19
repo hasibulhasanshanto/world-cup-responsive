@@ -38,8 +38,8 @@ li{
 .btn-link{
     display: flex;
     justify-content: center;
-    color: #ffffff;
-    background-color: #DD0000;
+    color: #000000;
+    background-color: #ffffff;
     padding: 12px 24px;
     font-weight: 500;
     font-size: 16px;
@@ -120,6 +120,7 @@ li{
     display: flex;
     justify-content: center;
     flex-direction: column; 
+    border-radius: 10px;
 }
 .sidebar a{
     margin: 20px;
